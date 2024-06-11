@@ -9,17 +9,37 @@
 
 A passionate and experienced Software Engineer with a strong background in backend development, data engineering, and a wide array of technologies. I thrive on creating efficient, scalable solutions and love tackling challenging problems in the world of big data and machine learning.
 
----
+### Languages & Frameworks
+- **Python** 🐍
+- **TypeScript** 📘
+- **React** ⚛️
+- **Next.js** 🌐
+- **Java** ☕
+- **Spring** 🍃
+- **Laravel** 🏗️
+- **Django** 🌐
+- **Flask** 🍶
 
-## Skills 🛠️
+### Databases
+- **MongoDB** 🍃
+- **AWS Redshift** ☁️
+- **SQL** 🗄️
 
-- **Languages & Frameworks:** Python 🐍, Java ☕, Pyspark 🔥, Java Spring 🍃, Laravel 🏗️, Django 🌐, Flask 🍶
-- **Databases:** MongoDB 🍃, AWS Redshift ☁️, SQL 🗄️
-- **Big Data Technologies:** Hadoop 🐘, Hive 🐝, MapReduce 🗺️, Kafka 📊
-- **DevOps & Orchestration:** Docker 🐳, Kubernetes ⚓, Terraform 🏗️, Airflow 💨
-- **Machine Learning & AI:** Skilled in applying ML algorithms to enhance application capabilities. 🤖
+### Big Data Technologies
+- **Hadoop** 🐘
+- **Hive** 🐝
+- **MapReduce** 🗺️
+- **Kafka** 📊
 
----
+### DevOps & Orchestration
+- **Docker** 🐳
+- **Kubernetes** ⚓
+- **Terraform** 🏗️
+- **Airflow** 💨
+
+### Machine Learning & AI
+- **Machine Learning & AI**: Skilled in applying ML algorithms to enhance application capabilities 🤖
+
 
 ## Education 🎓
 
