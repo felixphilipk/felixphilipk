@@ -42,7 +42,7 @@ A passionate and experienced Software Engineer with a strong background in full 
 
 ## Education 🎓
 
-- **Post Graduate Diploma in Data Science**, International Institute Of Technology, Bangalore (Nov 2023)
+- **Post Graduate Diploma in Data Science**, International Institute Of Information Technology, Bangalore (Nov 2023)
 - **Bachelor of Technology**, SRM University, Chennai (Nov 2015)
 
 ---
