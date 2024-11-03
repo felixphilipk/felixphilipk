@@ -1,49 +1,57 @@
-
 ---
 
-# Felix Philip 🌟 Software Engineer
+# Felix Philip 🌟 Software Engineer In Test
 
 ---
 
 ## About Me 🙋‍♂️
 
-A passionate and experienced Software Engineer with a strong background in full stack development and data engineering. I thrive on creating efficient, scalable solutions and love tackling challenging problems in the world of big data and machine learning.
+I'm a passionate Software Engineer with over 4 years of experience specializing in QA Automation and Data Engineering. My expertise spans full stack development, scalable data solutions, and end-to-end testing frameworks. I thrive on improving system reliability and scalability through efficient automation practices and data-driven insights.
 
-### Languages & Frameworks
-- **Python** 🐍
-- **TypeScript** 📘
-- **React** ⚛️
-- **Vue.js** 🌐
-- **Java** ☕
-- **Spring** 🍃
-- **Laravel** 🏗️
+### 🛠️ Technical Skills
 
+#### Languages & Frameworks
+- **Python** 🐍, **Java** ☕, **PHP**
+- **TypeScript** 📘, **Vue.js** 🌐, **React** ⚛️
+- **Java Spring** 🍃, **Laravel** 🏗️, **Django**
 
-### Databases
-- **MongoDB** 🍃
-- **AWS Redshift** ☁️
-- **SQL** 🗄️
+#### Databases & Big Data
+- **SQL** 🗄️, **MongoDB** 🍃, **AWS Redshift** ☁️
+- **Hadoop** 🐘, **Hive** 🐝, **Kafka** 📊, **MapReduce**
 
-### Big Data Technologies
-- **Hadoop** 🐘
-- **Hive** 🐝
-- **MapReduce** 🗺️
-- **Kafka** 📊
+#### Testing Tools
+- **Playwright** 🎭, **Cypress** 🌲, **Selenium**, **Appium** 📱, **Postman** 📬
+- **Vue Test Utils**, **JUnit**, **PHPUnit**, **Jest**
 
-### DevOps & Orchestration
-- **Docker** 🐳
-- **Kubernetes** ⚓
-- **Terraform** 🏗️
-- **Airflow** 💨
+#### DevOps & CI/CD
+- **Docker** 🐳, **Kubernetes** ⚓, **Terraform** 🏗️, **Git** 🐙
+- **Jira**, **Datadog** 📈, **QASE** 📋, **Airflow** 💨
 
-### Machine Learning & AI
-- **Machine Learning & AI**: Skilled in applying ML algorithms to enhance application capabilities 🤖
+#### Machine Learning & AI
+- **ETL Pipeline Testing**: Validating data accuracy and integrity in ETL pipelines using **Spark** and **Kafka**
+- **ML Model Testing** 🤖: Skilled in testing and integrating machine learning models to enhance software capabilities
 
+---
 
-## Education 🎓
+## 📚 Education
 
-- **Post Graduate Diploma in Data Science**, International Institute Of Information Technology, Bangalore (Nov 2023)
-- **Bachelor of Technology**, SRM University, Chennai (Nov 2015)
+- **Executive Post Graduate Diploma in Data Science**, International Institute Of Information Technology, Bangalore (2023)
+- **Bachelor of Technology**, SRM University, Chennai (2015)
+
+---
+
+## 🏆 Achievements
+
+- **Enhanced Test Coverage**: Increased test coverage across backend, frontend, and API layers, improving reliability and performance.
+- **Optimized Data Pipelines**: Conducted data quality assurance for ETL pipelines, ensuring accurate and consistent data.
+- **Automation Efficiency**: Reduced regression testing time by over 50% through automated scripts.
+
+---
+
+## 💻 Projects
+
+- **Data Engineering**: Built data pipelines using Spark and Kafka for real-time analytics.
+- **Automation Frameworks**: Developed E2E and API test frameworks integrated with CI/CD, enhancing product release cycles.
 
 ---
 
